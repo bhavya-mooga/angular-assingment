@@ -1,5 +1,5 @@
 {
   "buildCommand": "npx ng build --configuration production",
   "outputDirectory": "dist/demo",
-  "framework": "none"
+  "framework": "angular"
 }

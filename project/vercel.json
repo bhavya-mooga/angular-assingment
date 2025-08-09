@@ -1,8 +1,5 @@
 {
-  "builds": [
-    { "src": "angular.json", "use": "@vercel/static-build" }
-  ],
-  "framework": "angular",
   "buildCommand": "npx ng build --configuration production",
-  "outputDirectory": "dist/demo"
+  "outputDirectory": "dist/demo",
+  "framework": "none"
 }
